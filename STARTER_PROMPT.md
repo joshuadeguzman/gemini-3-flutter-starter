@@ -4,7 +4,7 @@
 
 ---
 
-```
+```**
 Create a Flutter habit tracking app called "Habit Tracking App" with the following specifications:
 
 ## App Concept
@@ -79,5 +79,5 @@ Follow the feature-first structure defined in GEMINI.md. Key folders:
 - lib/features/tracking/ (if separating tracking logic)
 - lib/features/settings/ (theme toggle, about)
 
-Start by creating the project structure, models, and the habit service with seed data. Then build the Home screen, then Add Habit, then Detail screen. Test each screen as you go.
-```
+Start by creating the project structure, models, and the habit service with seed data. Then build the Home screen, then Add Habit, then Detail screen. Test each screen as you go.**
+```****
